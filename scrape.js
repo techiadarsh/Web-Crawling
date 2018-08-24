@@ -1,3 +1,4 @@
+const ex = require('express');
 const os = require('osmosis');
 const website = 'http://www.uread.com/architecture/97';
 console.log('Scraping '   + website)
